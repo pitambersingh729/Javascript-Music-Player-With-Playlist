@@ -1,5 +1,5 @@
-# Quiz App
-A dynamic and interactive quiz application built using HTML, CSS, and JavaScript. This app allows users to test their knowledge across various topics with immediate feedback on their answers.
+# Javascript Music Player With Playlist
+<p>A dynamic and interactive quiz application built using <strong>HTML, CSS,</strong> and <strong>JavaScript.</strong> This app allows users to test their knowledge across various topics with immediate feedback on their answers.</p>
 
 <h3>Features</h3>
 <ul>
