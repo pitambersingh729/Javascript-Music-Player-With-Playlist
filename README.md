@@ -9,7 +9,7 @@
 	<li>🔄 Automatically plays the next song when the current song ends.</li>
 </ul>
 
-<h3>Demo</h3>
+<h3>🎬 Demo</h3>
 <p><a href="https://pitambersingh.com/javascript-plugins/Javascript-Music-Player-With-Playlist/" target="_blank" rel="follow">https://pitambersingh.com/javascript-plugins/Javascript-Music-Player-With-Playlist/</a></p>
 
 <h3>🚀 How to Run</h3>
@@ -25,7 +25,7 @@
 
 <p>Enjoy the music! 🎧</p>
 
-<h3>How It Works</h3>
+<h3>🛠️ How It Works</h3>
 <ul>
 	<li>Each question includes a topic, a question text, multiple answer options, and the correct answer.</li>
 	<li>Users select an answer for each question. Buttons are disabled after selection to prevent multiple answers.</li>
