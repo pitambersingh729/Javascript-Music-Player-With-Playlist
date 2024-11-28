@@ -1,0 +1,23 @@
+const songsList = [
+  {
+    "id": 1,
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "albumArt": "assets/images/pokerface.jpg",
+    "filePath": "assets/songs/pokerface.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Millionaire",
+    "artist": "Honey Singh",
+    "albumArt": "assets/images/millionaire.jpg",
+    "filePath": "assets/songs/millionaire.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "albumArt": "assets/images/perfect.jpg",
+    "filePath": "assets/songs/perfect.mp3"
+  }
+]
